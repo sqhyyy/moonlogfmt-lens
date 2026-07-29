@@ -1,0 +1,6 @@
+import {
+  "moonbitlang/core/env",
+  "sqhyyy/moonlogfmt-lens" @lens,
+}
+
+pkgtype(kind: "executable")

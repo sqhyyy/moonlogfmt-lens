@@ -1,0 +1,26 @@
+# Submission Checklist
+
+- [x] Independent project folder: `D:\Moonbit\projects\project-person-sqh`
+- [x] Independent project name: MoonLogfmt Lens
+- [x] Independent GitHub and Mooncakes account: `sqhyyy`
+- [x] Applicant identity: 宋庆辉 / `sqh3242511142@qq.com` / `18975974634`
+- [x] No reuse of previous participants' GitHub, Mooncakes, or personal data
+- [x] README with purpose, install, usage, examples, scope, and license
+- [x] `docs/novelty-review.md`
+- [x] `docs/architecture.md`
+- [x] `docs/validation.md`
+- [x] `docs/submission-application.md`
+- [x] `docs/submission-application-one-page.md`
+- [x] `docs/submission-application.pdf`
+- [x] CLI under `cmd/main`
+- [x] Examples for basic parsing, contract inference, privacy, and drift
+- [x] Test suite with 95 parser, contract, privacy, batch, and drift tests
+- [x] CI workflow
+- [x] `moon fmt`
+- [x] `moon check`
+- [x] `moon build`
+- [x] `moon test`
+- [x] `moon package --list`
+- [x] Local Git repository initialized with independent history
+- [x] Repository metadata prepared for public `sqhyyy/moonlogfmt-lens`
+- [x] Public GitHub repository created and main branch upload authorized: `https://github.com/sqhyyy/moonlogfmt-lens`
