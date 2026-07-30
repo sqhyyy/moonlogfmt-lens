@@ -235,6 +235,10 @@ logs, tail files, collect telemetry, export OpenTelemetry data, parse JSON, or
 replace logging frameworks. File readers, network collectors, and dashboards
 can build on top of the dependency-free core.
 
+## Contributing
+
+Development and verification instructions are available in [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
 
 Apache-2.0.
